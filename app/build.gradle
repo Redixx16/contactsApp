@@ -54,5 +54,11 @@ dependencies {
     implementation platform('com.google.firebase:firebase-bom:33.4.0')
     implementation("com.google.firebase:firebase-database")
 
+    implementation 'androidx.lifecycle:lifecycle-viewmodel:2.5.1'
+    implementation 'androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1'
+    implementation 'androidx.lifecycle:lifecycle-livedata-ktx:2.5.1'
+    implementation 'androidx.lifecycle:lifecycle-runtime-ktx:2.5.1'
+
+
 
 }
